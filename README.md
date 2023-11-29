@@ -1,4 +1,4 @@
-# ExtendableBookRecommendationSys
+# Extendable Book Recommendation System
 An extendable pipeline using NLP built to recommend items which have a description attached to it. 
 
 Database is self curated and self scraped based on our custom needs.
